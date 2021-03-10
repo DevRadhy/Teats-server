@@ -1,0 +1,5 @@
+# Migrations
+src/repositories/database/migrations/
+
+# Produção
+dist
